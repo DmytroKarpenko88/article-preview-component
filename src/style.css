@@ -54,7 +54,7 @@ body {
 }
 
 .text-preset-1 {
-  font-family: var(--font-red-hat-display);
+  font-family: var(--font-manrope);
   font-size: var(--text-64);
   font-weight: 900;
   line-height: 1.1;
